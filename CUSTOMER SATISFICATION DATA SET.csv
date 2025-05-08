@@ -1,0 +1,1051 @@
+Customer ID,Product Category,Satisfaction Score,Days for Delivery,customer service interaction,Purchase Amount,Customer Age,Gender
+CUST0022,Electronics,7,8,No,89.71,25,Male
+CUST0022,Books,7,3,Yes,178.39,52,Female
+CUST0748,Home Goods,8,6,No,81.71,33,Other
+CUST0244,Electronics,9,7,Yes,83.18,46,Other
+CUST0684,Books,9,7,Yes,68.8,36,Male
+CUST0799,Electronics,5,1,No,211.03,33,Female
+CUST0467,Books,6,3,No,159.02,51,other
+CUST0722,Home Goods,5,6,Yes,60.5,28,Male
+CUST0722,Electronics,6,2,No,49.95,65,other
+CUST0194,Home Goods,9,3,Yes,168.99,35,Male
+CUST0865,Books,8,5,No,169.96,63,Male
+CUST0681,Books,4,0,Yes,30.15,32,Female
+CUST0440,Home Goods,10,6,Yes,150.73,30,Male
+CUST0410,Home Goods,9,3,Yes,186.74,16,Male
+CUST0900,Home Goods,4,6,No,69.73,29,Male
+CUST0067,Books,4,5,Yes,41.39,22,male
+CUST0465,Books,6,4,No,57.33,9,Female
+CUST0359,Electronics,6,3,No,13.98,33,other
+CUST0432,Clothing,9,4,No,70.24,26,Male
+CUST0895,Books,7,2,No,94.68,65,Female
+CUST0119,Books,6,5,No,86.13,18,Male
+CUST0146,Home Goods,4,1,Yes,88.3,47,other
+CUST0181,Electronics,3,5,No,93.26,38,Male
+CUST0675,Books,9,7,Yes,157.13,53,Other
+CUST0049,Clothing,10,5,No,171.46,47,Male
+CUST0735,Clothing,9,10,Yes,166.85,53,Other
+CUST0200,Home Goods,7,6,Yes,164.33,52,Male
+CUST0298,Home Goods,8,6,No,66.23,52,Female
+CUST0940,Clothing,3,6,No,111.02,30,Male
+CUST0453,Clothing,3,5,Yes,99.99,39,Female
+CUST0557,Books,8,6,No,231.68,24,Female
+CUST0007,Electronics,4,9,No,114.81,19,other
+CUST0191,Home Goods,7,2,No,120.17,21,Male
+CUST0452,Clothing,5,6,No,140.99,16,Male
+CUST0592,Books,2,7,Yes,127.71,28,other
+CUST0929,Clothing,7,6,Yes,53.97,53,Female
+CUST0630,Home Goods,7,5,Yes,188.51,35,Female
+CUST0232,Books,8,3,No,0,25,other
+CUST0282,Books,8,4,No,139,50,Female
+CUST0814,Books,10,6,No,157.56,45,Other
+CUST0843,Electronics,9,1,Yes,30.73,42,other
+CUST0870,Clothing,5,6,No,191.36,25,Male
+CUST0172,Electronics,6,3,Yes,197.86,11,Male
+CUST0347,Books,8,5,No,173.48,10,other
+CUST0782,Home Goods,8,2,No,65.36,53,Male
+CUST0867,Electronics,3,2,No,125.51,36,Male
+CUST0212,Home Goods,5,9,Yes,87.2,56,Male
+CUST0424,Books,5,7,No,84.98,3,male
+CUST0140,Electronics,3,7,No,122.53,64,male
+CUST0466,Home Goods,6,9,No,104.26,21,Male
+CUST0840,Electronics,7,8,No,53.59,25,Female
+CUST0168,Home Goods,8,3,Yes,0,25,Female
+CUST0073,Electronics,6,8,No,149.56,19,Male
+CUST0213,Electronics,6,5,No,16852,40,Male
+CUST0976,Electronics,8,2,No,143.09,40,Male
+CUST0356,Home Goods,4,5,No,184.42,36,Female
+CUST0053,Home Goods,4,6,Yes,137.7,33,Male
+CUST0966,Electronics,3,6,No,93.29,41,Male
+CUST0556,Books,9,0,Yes,75.36,51,Male
+CUST0818,Home Goods,8,0,No,190.33,41,Female
+CUST0811,Home Goods,7,0,Yes,120.1,21,Female
+CUST0145,Books,8,5,Yes,23.97,35,Male
+CUST0186,Books,10,2,Yes,124.37,50,Male
+CUST0037,Books,7,4,No,102.82,45,Male
+CUST0750,Clothing,9,4,No,157.53,30,Male
+CUST0135,Home Goods,4,7,No,121.17,27,Female
+CUST0767,Electronics,6,5,No,126.55,17,Male
+CUST0984,Electronics,5,7,No,93.29,28,Other
+CUST0772,Electronics,12,0,No,11.03,26,Other
+CUST0772,Electronics,7,6,Yes,89.81,38,male
+CUST0773,Electronics,9,8,No,164.51,60,Male
+CUST0197,Clothing,8,3,Yes,46.54,23,male
+CUST0606,Home Goods,3,7,Yes,83.07,44,Male
+CUST0833,Home Goods,5,9,Yes,123.65,48,Female
+CUST0757,Clothing,7,5,No,127.99,24,Male
+CUST0978,Books,5,0,Yes,44.6,54,Male
+CUST0021,Clothing,5,2,No,179.55,25,other
+CUST0245,Home Goods,4,0,No,164.12,32,Male
+CUST0803,Electronics,8,4,Yes,149.49,41,Female
+CUST0016,Electronics,6,6,Yes,98.63,71,other
+CUST0316,Books,9,6,No,93.29,24,Male
+CUST0957,Books,8,6,Yes,108.17,45,male
+CUST0078,Books,7,3,Yes,60.03,53,male
+CUST0521,Electronics,4,2,Yes,120.1,48,Female
+CUST0643,Books,8,5,No,55.13,38,Female
+CUST0455,Electronics,7,5,No,137.25,18,other
+CUST0486,Clothing,5,5,Yes,140.45,69,Female
+CUST0165,Clothing,7,5,No,124.22,59,other
+CUST0733,Electronics,7,0,No,64.05,46,Female
+CUST0049,Clothing,10,5,No,171.46,47,Male
+CUST0600,Clothing,5,6,No,72.59,9,Male
+CUST0560,Clothing,5,4,No,123.63,38,Female
+CUST0560,Home Goods,4,6,Yes,34.19,10,Female
+CUST0537,Books,7,3,No,89.79,40,male
+CUST0128,Electronics,5,1,No,46.54,58,Female
+CUST0507,Books,9,4,Yes,53.61,36,Male
+CUST0496,Home Goods,6,8,No,41.08,40,Male
+CUST0263,Electronics,7,7,No,70.3,51,male
+CUST0445,Books,4,6,Yes,60.39,29,Female
+CUST0741,Home Goods,8,3,No,123.98,55,other
+CUST0334,Home Goods,7,4,Yes,155.77,49,Female
+CUST0591,Electronics,6,7,No,149.49,28,Female
+CUST0147,Home Goods,7,6,No,2918,53,male
+CUST0351,Books,8,3,No,129.32,23,Male
+CUST0622,Clothing,8,3,Yes,105.98,34,Other
+CUST0394,Electronics,8,0,No,88.02,35,Male
+CUST0872,Books,8,4,No,85.72,67,Other
+CUST0387,Home Goods,8,4,Yes,181.11,40,Male
+CUST0420,Clothing,6,2,Yes,113.84,5,Other
+CUST0420,Clothing,8,2,Yes,139.29,13,Male
+CUST0251,Clothing,9,3,Yes,0,21,Male
+CUST0753,Clothing,8,3,Yes,139.59,61,Male
+CUST0449,Home Goods,7,4,No,186.6,60,male
+CUST0620,Home Goods,8,5,Yes,141.05,14,Female
+CUST0894,Electronics,6,6,No,140.37,41,male
+CUST0639,Clothing,10,-1,Yes,131.04,57,other
+CUST0262,Clothing,7,7,Yes,74.64,28,Female
+CUST0902,Books,8,0,No,101.4,25,Female
+CUST0398,Clothing,8,7,No,151.83,42,Other
+CUST0010,Clothing,6,5,No,134.44,32,Male
+CUST0851,Home Goods,10,5,No,96.95,29,Female
+CUST0238,Clothing,10,4,Yes,65.39,27,Male
+CUST0340,Books,7,7,No,123.98,46,Female
+CUST0991,Clothing,6,4,No,50.74,38,Female
+CUST0991,Electronics,7,2,Yes,149.49,54,Female
+CUST0177,Home Goods,9,0,Yes,108.03,16,Male
+CUST0800,Home Goods,9,8,Yes,100.44,14,Female
+CUST0422,Clothing,6,6,Yes,62.11,26,Female
+CUST0422,Books,10,4,No,162.74,59,Female
+CUST0709,Home Goods,8,7,Yes,128.97,31,Female
+CUST0926,Home Goods,9,9,Yes,8440,30,Other
+CUST0732,Electronics,7,3,Yes,104.71,25,male
+CUST0614,Clothing,8,4,No,108.85,25,Male
+CUST0285,Clothing,9,5,Yes,160.51,37,Male
+CUST0794,Books,5,5,No,121.16,26,other
+CUST0260,Home Goods,6,6,No,117.22,19,Male
+CUST0747,Home Goods,10,6,No,76.31,55,Male
+CUST0796,Home Goods,10,4,No,107.09,29,Male
+CUST0429,Electronics,9,4,No,17091,46,male
+CUST0417,Electronics,7,4,Yes,176.76,11,male
+CUST0573,Electronics,8,7,Yes,85.33,33,Female
+CUST0239,Home Goods,10,9,No,165.4,36,Male
+CUST0473,Home Goods,6,6,Yes,58.11,49,Male
+CUST0216,Electronics,5,8,No,71.92,47,Male
+CUST0764,Clothing,5,2,No,65.39,51,Male
+CUST0746,Clothing,8,5,Yes,122.54,35,Female
+CUST0247,Home Goods,7,4,Yes,122.18,38,Male
+CUST0477,Electronics,10,7,Yes,117.25,41,male
+CUST0126,Books,7,5,No,142.97,41,Male
+CUST0989,Clothing,10,7,No,100.44,32,Female
+CUST0309,Books,8,5,Yes,184.9,7,other
+CUST0776,Electronics,12,5,No,29.1,25,Male
+CUST0367,Clothing,5,0,Yes,59.59,51,Other
+CUST0775,Clothing,2,3,Yes,74.93,45,male
+CUST0545,Books,6,3,No,160.12,27,Male
+CUST0256,Home Goods,10,8,No,76.2,47,Other
+CUST0117,Electronics,4,3,Yes,106.14,72,Other
+CUST0430,Books,4,3,Yes,20.56,58,Male
+CUST0626,Clothing,7,3,Yes,49.39,23,Other
+CUST0605,Home Goods,7,7,No,0,19,Female
+CUST0236,Books,8,2,No,95.72,36,Other
+CUST0969,Clothing,6,7,Yes,165.74,21,other
+CUST0771,Electronics,6,4,No,65.64,60,Female
+CUST0405,Home Goods,8,0,No,94.22,1,Other
+CUST0405,Books,5,8,Yes,141.33,22,Female
+CUST0918,Books,5,6,No,33.71,39,male
+CUST0105,Clothing,7,4,No,74.89,44,Male
+CUST0958,Electronics,9,4,Yes,40.22,21,Female
+CUST0737,Books,8,5,Yes,94.63,62,Other
+CUST0400,Electronics,9,2,No,112.24,38,other
+CUST0541,Home Goods,6,0,No,88.92,25,Female
+CUST0832,Electronics,8,5,No,115.74,23,Male
+CUST0404,Electronics,4,8,No,158.03,31,male
+CUST0793,Electronics,5,9,No,71.75,77,Male
+CUST0515,Clothing,8,6,Yes,108.63,27,Male
+CUST0824,Home Goods,10,5,No,110.58,38,Female
+CUST0074,Clothing,5,0,Yes,151.92,33,male
+CUST0858,Home Goods,5,2,Yes,152.39,43,Male
+CUST0601,Electronics,10,6,Yes,73.09,46,other
+CUST0325,Clothing,7,7,No,106.14,34,male
+CUST0619,Home Goods,8,1,No,75.6,48,Male
+CUST0582,Electronics,11,5,Yes,128.68,11,male
+CUST0423,Clothing,10,2,Yes,101.24,15,male
+CUST0178,Home Goods,6,7,No,102.67,18,Female
+CUST0599,Books,7,7,No,74.14,51,Other
+CUST0047,Books,6,7,No,161.06,37,Male
+CUST0141,Books,4,9,No,78.46,42,Female
+CUST0269,Home Goods,12,6,No,90.88,19,Male
+CUST0714,Books,8,7,Yes,109.24,36,Male
+CUST0714,Electronics,6,8,Yes,74.14,50,Female
+CUST0763,Electronics,10,5,Yes,95.23,31,Female
+CUST0935,Books,7,6,No,124.25,12,Male
+CUST0079,Home Goods,7,4,Yes,58.99,42,Female
+CUST0336,Books,4,4,Yes,111.19,75,Male
+CUST0781,Electronics,10,3,No,167.07,30,male
+CUST0513,Home Goods,9,6,Yes,199.64,41,Female
+CUST0638,Home Goods,11,2,Yes,71.69,22,Female
+CUST0901,Electronics,3,7,No,156.92,41,Male
+CUST0393,Books,7,4,Yes,131.42,9,male
+CUST0396,Books,4,5,Yes,86.02,44,Male
+CUST0653,Home Goods,7,5,Yes,72.3,39,Male
+CUST0172,Electronics,6,3,Yes,19786,11,Male
+CUST0540,Clothing,4,3,No,77.99,43,Male
+CUST0084,Books,6,6,No,114.92,48,Male
+CUST0137,Electronics,6,5,No,12.78,33,male
+CUST0979,Books,9,4,Yes,29.9,29,Female
+CUST0905,Home Goods,8,0,No,99.49,53,Other
+CUST0837,Home Goods,8,6,No,118.07,25,Female
+CUST0444,Books,6,5,No,157.09,68,Female
+CUST0190,Clothing,3,5,No,157.19,33,Male
+CUST0517,Books,7,7,Yes,222.23,36,Male
+CUST0363,Electronics,6,5,No,136.45,30,Female
+CUST0579,Clothing,7,6,No,163.46,28,Male
+CUST0093,Clothing,12,0,Yes,143.26,48,other
+CUST0603,Books,7,4,Yes,114.31,58,other
+CUST0603,Books,7,7,Yes,58.99,48,Female
+CUST0649,Books,6,7,No,23.64,25,Other
+CUST0888,Clothing,6,5,No,137.02,25,Female
+CUST0498,Books,9,4,No,199.64,44,Other
+CUST0082,Books,9,6,No,42.27,45,Male
+CUST0646,Electronics,4,3,Yes,82.59,19,Male
+CUST0208,Books,8,7,No,150.91,25,Female
+CUST0434,Books,9,3,Yes,69.05,25,male
+CUST0527,Home Goods,7,6,Yes,104.04,44,male
+CUST0974,Electronics,7,6,Yes,83.45,32,Female
+CUST0729,Electronics,7,6,Yes,77.99,17,Other
+CUST0196,Clothing,6,7,No,85.56,68,other
+CUST0470,Books,6,4,No,36.48,26,male
+CUST0992,Books,9,2,Yes,170.25,25,Male
+CUST0829,Home Goods,6,4,Yes,118.94,50,male
+CUST0464,Electronics,6,6,Yes,67.89,32,Female
+CUST0812,Home Goods,8,5,No,63.9,67,Male
+CUST0678,Books,4,5,Yes,113.18,53,Female
+CUST0617,Electronics,7,3,No,205.18,45,other
+CUST0411,Home Goods,7,4,No,158.25,7,Male
+CUST0551,Electronics,5,6,No,64.66,33,Male
+CUST0999,Books,8,5,No,44.5,36,other
+CUST0157,Electronics,8,8,Yes,46.1,71,Male
+CUST0655,Clothing,10,4,Yes,160.05,34,Female
+CUST0275,Electronics,6,8,No,117.22,16,male
+CUST0276,Books,6,5,Yes,137.02,34,male
+CUST0307,Books,5,7,No,59.68,38,Female
+CUST0868,Clothing,8,5,Yes,75.76,31,Male
+CUST0283,Clothing,2,7,No,68.49,60,other
+CUST0792,Books,7,5,Yes,135.86,38,Other
+CUST0476,Books,4,7,No,111.94,59,Female
+CUST0562,Home Goods,6,5,No,95.83,30,male
+CUST0419,Books,6,1,No,81.12,34,other
+CUST0019,Books,6,7,Yes,96.52,31,Female
+CUST0346,Home Goods,5,4,No,85.56,29,Female
+CUST0258,Clothing,4,6,Yes,36.48,26,Female
+CUST0919,Books,8,9,No,67.05,55,Female
+CUST0131,Books,8,0,Yes,48.6,4,Female
+CUST0105,Clothing,7,4,No,74.89,44,Male
+CUST0593,Electronics,4,3,No,22.78,37,male
+CUST0305,Clothing,6,0,Yes,91.4,31,Other
+CUST0631,Electronics,6,4,Yes,0,28,other
+CUST0065,Home Goods,7,6,No,134.75,25,male
+CUST0928,Books,8,6,No,47.07,23,Female
+CUST0885,Books,9,6,Yes,107.47,35,Female
+CUST0683,Home Goods,6,8,Yes,160.23,37,Male
+CUST0588,Home Goods,6,0,No,125.27,30,Male
+CUST0588,Electronics,11,5,Yes,118.76,34,Female
+CUST0718,Books,7,7,Yes,78.06,40,Female
+CUST0820,Electronics,7,6,Yes,59.68,0,Male
+CUST0913,Electronics,8,6,No,73.73,25,Female
+CUST0846,Electronics,4,7,No,63.52,37,Female
+CUST0148,Home Goods,5,5,Yes,132.66,22,Male
+CUST0443,Electronics,6,5,No,160.3,47,Other
+CUST0982,Books,5,0,No,45.78,57,Female
+CUST0506,Electronics,8,5,Yes,65.7,0,male
+CUST0652,Books,4,4,Yes,153.9,31,Other
+CUST0064,Electronics,5,5,Yes,109.79,25,other
+CUST0460,Home Goods,5,3,Yes,117.49,37,Male
+CUST0516,Home Goods,6,4,Yes,67.05,42,male
+CUST0774,Books,6,6,Yes,138.21,29,Male
+CUST0098,Books,7,0,No,44.13,40,male
+CUST0899,Home Goods,5,4,Yes,195.22,44,Female
+CUST0660,Clothing,9,7,Yes,81.69,26,Other
+CUST0952,Books,6,5,Yes,55.1,41,Female
+CUST0032,Electronics,7,6,No,134.75,47,Female
+CUST0318,Electronics,4,7,Yes,130.5,58,Female
+CUST0290,Books,5,4,Yes,72.56,34,Other
+CUST0687,Clothing,7,5,Yes,130.74,9,Female
+CUST0427,Electronics,10,8,No,104.96,47,Male
+CUST0908,Home Goods,9,3,No,18.72,16,Female
+CUST0566,Clothing,8,8,No,46.51,49,male
+CUST0798,Home Goods,4,8,Yes,161.49,75,Male
+CUST0945,Electronics,10,4,No,57.39,34,Female
+CUST0204,Home Goods,5,5,No,82.52,11,Other
+CUST0641,Clothing,7,9,No,29.8,27,Male
+CUST0432,Clothing,9,4,No,70.24,26,Male
+CUST0151,Home Goods,5,6,Yes,121.48,44,Female
+CUST0925,Electronics,7,4,Yes,63.89,51,Other
+CUST0611,Electronics,11,5,Yes,153.9,18,other
+CUST0034,Clothing,7,6,Yes,144.34,33,male
+CUST0418,Clothing,6,2,No,117.49,17,Other
+CUST0056,Books,7,7,Yes,105.69,64,Female
+CUST0238,Clothing,10,4,Yes,65.39,27,Male
+CUST0301,Electronics,7,4,No,112.61,24,Female
+CUST0514,Clothing,5,4,Yes,61.04,23,Female
+CUST0701,Clothing,5,4,No,149.7,57,Male
+CUST0959,Clothing,9,1,No,88.97,34,Female
+CUST0338,Home Goods,8,6,No,8.7,31,Male
+CUST0491,Books,6,4,No,161.19,18,Male
+CUST0508,Home Goods,9,5,No,88.03,30,Female
+CUST0339,Books,7,3,No,34.29,30,Other
+CUST0657,Home Goods,9,4,Yes,116.99,37,Male
+CUST0488,Books,6,7,Yes,92.22,34,other
+CUST0136,Electronics,8,6,Yes,204.04,43,other
+CUST0136,Clothing,6,6,Yes,161.49,19,Male
+CUST0260,Home Goods,6,6,No,117.22,19,Male
+CUST0910,Clothing,7,6,No,71.87,21,Female
+CUST0910,Books,5,5,No,67.13,41,Other
+CUST0755,Clothing,6,5,No,59.66,18,Male
+CUST0448,Clothing,5,6,No,121.48,25,Male
+CUST0848,Clothing,12,7,No,84.85,49,other
+CUST0385,Electronics,8,5,Yes,110.96,34,other
+CUST0287,Electronics,6,4,Yes,70.46,31,Male
+CUST0144,Books,5,3,No,84.92,32,Female
+CUST0076,Clothing,7,3,Yes,36.03,17,Female
+CUST0856,Electronics,7,6,No,147.13,58,other
+CUST0856,Books,11,6,No,116.91,39,Male
+CUST0185,Electronics,7,7,No,108.99,19,other
+CUST0503,Electronics,8,4,Yes,37.47,63,Other
+CUST0234,Books,7,7,No,11.77,57,Female
+CUST0828,Clothing,9,4,No,214.74,46,male
+CUST0092,Books,8,6,No,140.8,34,Female
+CUST0320,Clothing,8,5,No,28.59,28,Male
+CUST0944,Electronics,8,7,No,55.46,25,Female
+CUST0091,Books,8,5,No,141.24,52,Female
+CUST0695,Clothing,6,5,Yes,190.48,33,Male
+CUST0530,Clothing,8,4,Yes,204.04,41,male
+CUST0097,Clothing,4,8,Yes,131.77,30,Male
+CUST0097,Books,4,6,No,44.09,26,Female
+CUST0362,Electronics,5,0,Yes,61.71,37,male
+CUST0686,Clothing,5,7,Yes,121.69,15,Other
+CUST0520,Clothing,7,0,No,174.52,34,male
+CUST0673,Clothing,8,6,No,0,50,male
+CUST0705,Electronics,7,6,No,55.44,45,Female
+CUST0322,Electronics,11,9,No,42.7,32,Male
+CUST0408,Books,4,6,Yes,43.12,43,Male
+CUST0108,Books,5,5,No,5.76,48,Female
+CUST0081,Home Goods,8,8,No,76.58,58,other
+CUST0413,Clothing,7,7,Yes,1.5,64,other
+CUST0182,Home Goods,5,6,Yes,64.67,30,Male
+CUST0040,Home Goods,10,1,No,89.07,41,Other
+CUST0483,Electronics,8,3,No,129.94,38,Male
+CUST0483,Electronics,9,6,No,99.2,36,other
+CUST0539,Electronics,9,9,No,61.46,46,Female
+CUST0790,Home Goods,6,9,No,70.65,55,Male
+CUST0742,Clothing,5,7,Yes,109.95,25,other
+CUST0627,Electronics,11,3,No,60.53,27,other
+CUST0933,Electronics,6,4,Yes,141.24,33,Male
+CUST0898,Books,9,3,Yes,154.66,23,Male
+CUST0233,Books,8,4,Yes,204.04,29,male
+CUST0431,Electronics,8,1,No,30.55,39,Female
+CUST0373,Clothing,5,8,Yes,89.55,73,Female
+CUST0949,Clothing,7,7,No,124.41,24,Female
+CUST0904,Home Goods,3,8,Yes,17521,23,Female
+CUST0904,Books,7,4,No,77.31,65,Other
+CUST0899,Home Goods,5,4,Yes,195.22,44,Female
+CUST0597,Electronics,5,4,No,55.44,27,Female
+CUST0836,Books,8,4,Yes,170.34,24,Female
+CUST0280,Clothing,7,5,Yes,146.72,25,Female
+CUST0610,Books,6,7,No,100.47,23,Male
+CUST0348,Books,4,4,Yes,114.77,44,male
+CUST0333,Books,6,6,No,130.26,33,male
+CUST0402,Books,8,3,Yes,107.62,44,Female
+CUST0950,Books,6,6,Yes,56.6,4,Female
+CUST0153,Electronics,9,3,No,0,35,other
+CUST0315,Home Goods,9,6,No,126.17,29,Male
+CUST0696,Books,6,6,No,26.29,31,male
+CUST0195,Home Goods,6,5,Yes,76.74,49,Male
+CUST0713,Electronics,9,2,No,146.81,38,Male
+CUST0326,Clothing,7,5,No,159.12,50,Female
+CUST0403,Home Goods,7,6,Yes,159.11,24,Male
+CUST0403,Electronics,6,8,No,84.16,39,Female
+CUST0023,Clothing,7,4,No,97.76,41,male
+CUST0122,Electronics,5,7,Yes,162.57,13,other
+CUST0237,Clothing,5,7,Yes,175.38,34,Male
+CUST0099,Clothing,5,5,No,14.63,17,Female
+CUST0442,Books,6,8,Yes,18.37,18,male
+CUST0694,Books,9,4,Yes,6940,48,Male
+CUST0437,Books,12,5,Yes,153.45,33,Female
+CUST0284,Home Goods,9,6,Yes,103.5,25,Male
+CUST0934,Electronics,7,3,No,115.98,4,Male
+CUST0155,Electronics,9,5,No,146.72,33,Female
+CUST0510,Clothing,8,4,No,14800,23,male
+CUST0762,Clothing,4,3,Yes,152.72,25,Female
+CUST0189,Home Goods,9,6,Yes,0,59,Female
+CUST0797,Electronics,9,5,No,43.28,31,Male
+CUST0797,Electronics,8,0,No,81.8,26,Male
+CUST0198,Books,12,5,Yes,0,17,Male
+CUST0183,Clothing,3,2,Yes,113.33,39,other
+CUST0635,Clothing,8,5,Yes,54.2,16,male
+CUST0164,Books,6,7,No,34.93,26,Other
+CUST0206,Electronics,6,-1,No,85.39,27,Female
+CUST0875,Clothing,8,6,No,144.83,36,Female
+CUST0241,Clothing,5,4,Yes,159.11,36,Female
+CUST0138,Electronics,8,3,Yes,129.11,23,Other
+CUST0039,Electronics,8,3,Yes,159.98,58,Other
+CUST0063,Electronics,6,0,No,125.27,25,Male
+CUST0938,Electronics,8,8,Yes,104.25,57,Male
+CUST0613,Books,6,5,Yes,150.67,63,Male
+CUST0956,Home Goods,7,6,Yes,165.03,31,Female
+CUST0123,Clothing,7,5,Yes,195.47,36,other
+CUST0623,Home Goods,9,6,No,115.96,36,other
+CUST0946,Home Goods,9,5,Yes,26.86,33,Other
+CUST0355,Books,3,5,Yes,145.08,9,Male
+CUST0139,Home Goods,5,4,Yes,96.7,24,Female
+CUST0892,Home Goods,8,3,No,25.52,37,Male
+CUST0409,Books,5,0,Yes,160.63,24,Male
+CUST0685,Electronics,7,7,No,18.93,58,Other
+CUST0041,Home Goods,5,9,No,22.34,27,Female
+CUST0839,Books,7,0,No,88.95,16,Male
+CUST0839,Books,4,6,No,48.75,59,male
+CUST0625,Electronics,10,2,No,83.31,43,Female
+CUST0682,Electronics,9,5,No,11693,37,male
+CUST0294,Clothing,10,4,No,61.25,42,Male
+CUST0294,Electronics,6,5,No,114.36,21,Male
+CUST0061,Home Goods,8,4,Yes,64.86,39,other
+CUST0386,Books,6,8,Yes,103.86,58,Male
+CUST0142,Electronics,7,8,No,92.7,9,Female
+CUST0915,Books,6,7,No,46.81,42,male
+CUST0278,Clothing,6,4,No,117.05,25,Male
+CUST0511,Books,7,4,No,179.17,41,other
+CUST0242,Home Goods,7,8,Yes,7628,22,Male
+CUST0702,Books,7,5,No,54.59,14,Male
+CUST0636,Clothing,6,6,No,156.71,45,Other
+CUST0636,Electronics,7,5,Yes,123.08,35,male
+CUST0963,Clothing,4,6,No,93.29,14,Female
+CUST0505,Home Goods,9,6,No,0,25,male
+CUST0096,Clothing,5,4,Yes,134.95,33,Female
+CUST0528,Clothing,10,6,No,65.95,33,male
+CUST0355,Books,3,5,Yes,145.08,9,Male
+CUST0589,Books,6,0,No,155.15,16,Female
+CUST0860,Home Goods,5,5,Yes,101.22,27,Female
+CUST0254,Clothing,4,3,Yes,83.08,47,other
+CUST0011,Home Goods,4,2,No,92.91,45,Other
+CUST0809,Clothing,4,5,Yes,140.84,23,other
+CUST0816,Electronics,4,5,No,81.63,18,Male
+CUST0943,Clothing,5,6,No,68.04,7,other
+CUST0710,Books,7,5,No,0,42,Male
+CUST0051,Home Goods,10,5,No,116.25,30,male
+CUST0207,Books,10,6,No,107.66,37,Male
+CUST0897,Clothing,8,7,No,71.3,33,Male
+CUST0965,Home Goods,8,7,No,127.87,30,Female
+CUST0421,Clothing,7,6,Yes,35.12,20,other
+CUST0441,Electronics,10,3,Yes,59.11,27,Male
+CUST0219,Books,8,4,No,181.32,46,Male
+CUST0877,Clothing,8,7,No,99.86,34,other
+CUST0472,Books,8,0,Yes,99.03,8,Female
+CUST0240,Books,6,7,No,41.06,36,Male
+CUST0715,Books,9,6,No,93.29,35,other
+CUST0715,Clothing,6,3,Yes,3.39,33,Other
+CUST0306,Electronics,9,0,Yes,91.52,40,Male
+CUST0261,Electronics,2,5,No,81.32,53,Male
+CUST0087,Clothing,4,5,No,17.55,50,Female
+CUST0345,Home Goods,7,5,Yes,146.4,9,Female
+CUST0471,Electronics,5,8,Yes,198.54,28,Male
+CUST0784,Books,9,6,Yes,42.15,25,male
+CUST0116,Books,11,4,No,88.08,24,Female
+CUST0382,Clothing,11,5,No,0,18,Male
+CUST0020,Home Goods,8,3,Yes,144.5,44,Male
+CUST0286,Home Goods,3,4,Yes,86.55,0,other
+CUST0380,Electronics,6,3,No,0,26,Female
+CUST0501,Home Goods,8,3,Yes,90.93,51,Female
+CUST0248,Electronics,6,7,No,42.41,41,Female
+CUST0249,Electronics,5,4,No,64.25,43,Female
+CUST0787,Home Goods,7,4,No,85.4,13,Female
+CUST0527,Home Goods,7,6,Yes,104.04,44,male
+CUST0253,Books,4,9,No,83.61,50,Female
+CUST0924,Home Goods,8,7,Yes,145.8,45,other
+CUST0575,Home Goods,8,5,Yes,116.29,23,Male
+CUST0335,Clothing,8,6,No,152.64,9,Other
+CUST0083,Electronics,6,3,No,45.23,7,Male
+CUST0647,Electronics,8,6,Yes,75.2,48,Other
+CUST0711,Home Goods,7,6,No,98.09,25,male
+CUST0439,Home Goods,6,5,No,71.9,28,Other
+CUST0526,Home Goods,7,9,No,133.82,26,Male
+CUST0158,Clothing,10,4,Yes,68.17,41,Female
+CUST0243,Books,7,5,Yes,103.67,25,male
+CUST0337,Electronics,4,6,No,85.99,48,Female
+CUST0266,Clothing,9,6,Yes,74,19,Female
+CUST0866,Electronics,9,8,Yes,80.9,50,other
+CUST0291,Electronics,5,7,Yes,0.73,36,Male
+CUST0376,Books,7,6,Yes,98.87,12,Other
+CUST0169,Home Goods,8,5,No,120.54,53,Male
+CUST0485,Electronics,7,3,No,0,40,Female
+CUST0435,Books,6,5,Yes,98.42,23,Male
+CUST0415,Home Goods,9,9,No,61.99,49,male
+CUST0780,Home Goods,12,3,No,103.79,15,Male
+CUST0759,Electronics,7,5,No,150.22,22,other
+CUST0852,Clothing,6,3,Yes,111.07,54,Male
+CUST0964,Home Goods,7,4,No,120.61,40,Female
+CUST0993,Clothing,6,4,Yes,7563,33,other
+CUST0109,Clothing,10,8,Yes,111.47,44,Female
+CUST0272,Books,7,8,Yes,150.23,46,Male
+CUST0044,Books,3,4,Yes,55.33,32,Male
+CUST0438,Books,6,4,Yes,104.56,53,Female
+CUST0461,Clothing,6,8,No,85.2,56,other
+CUST0059,Home Goods,4,0,Yes,176.69,18,Female
+CUST0059,Books,5,4,No,95.92,56,male
+CUST0707,Books,8,6,Yes,142.63,59,Male
+CUST0071,Clothing,7,7,No,51.87,20,male
+CUST0388,Home Goods,9,5,No,197.56,25,Female
+CUST0862,Electronics,5,2,No,71.91,47,male
+CUST0109,Clothing,10,8,Yes,111.47,44,Female
+CUST0085,Home Goods,6,7,Yes,97.24,26,Male
+CUST0344,Clothing,5,9,No,110.49,43,other
+CUST0344,Books,9,3,No,70.37,36,Male
+CUST0344,Home Goods,7,7,Yes,64.27,50,male
+CUST0813,Electronics,7,4,Yes,142.28,25,Other
+CUST0193,Electronics,7,4,No,21.93,48,Female
+CUST0650,Electronics,10,11,Yes,14.89,32,other
+CUST0431,Electronics,8,1,No,30.55,39,Female
+CUST0463,Electronics,6,7,Yes,227.73,29,other
+CUST0038,Electronics,9,3,No,74.39,31,Male
+CUST0227,Electronics,8,7,No,136.61,34,Male
+CUST0507,Books,9,4,Yes,53.61,36,Male
+CUST0159,Electronics,2,4,No,96.59,34,Male
+CUST0175,Books,8,5,Yes,4263,60,Other
+CUST0512,Clothing,7,8,Yes,44.11,8,Other
+CUST0118,Clothing,8,5,No,49.57,54,Male
+CUST0785,Clothing,9,7,No,98.85,26,Female
+CUST0967,Electronics,8,6,Yes,120.17,30,male
+CUST0778,Books,4,7,Yes,68.09,41,Male
+CUST0479,Electronics,6,8,No,59.89,32,Male
+CUST0909,Home Goods,7,3,Yes,114.42,25,Male
+CUST0173,Home Goods,8,8,No,98.66,34,Female
+CUST0532,Books,7,4,No,145.99,40,male
+CUST0830,Books,9,6,Yes,97.24,58,Male
+CUST0075,Electronics,11,5,No,45.58,46,Male
+CUST0223,Clothing,3,6,No,107.59,33,Male
+CUST0295,Clothing,8,0,Yes,99.45,25,Other
+CUST0980,Clothing,7,8,No,166.01,37,Other
+CUST0313,Books,9,6,No,21.93,21,Male
+CUST0584,Clothing,4,7,No,187.34,53,Female
+CUST0029,Clothing,8,4,No,70.03,46,other
+CUST0712,Clothing,3,3,No,102.49,22,other
+CUST0590,Electronics,3,4,No,196.77,25,Other
+CUST0835,Electronics,5,4,No,51.08,25,Female
+CUST0962,Electronics,9,0,No,95.27,52,Male
+CUST0341,Home Goods,7,4,No,8.2,45,other
+CUST0279,Electronics,6,8,No,49.02,37,Female
+CUST0671,Electronics,7,4,Yes,168.4,51,other
+CUST0559,Books,11,6,No,109.34,34,other
+CUST0014,Home Goods,9,4,Yes,86.91,37,Female
+CUST0931,Home Goods,5,7,No,80.76,30,male
+CUST0048,Home Goods,5,0,No,75.64,44,other
+CUST0766,Books,3,8,No,59.89,41,Male
+CUST0522,Home Goods,3,3,No,81.92,40,Female
+CUST0349,Books,9,7,No,133.17,25,Other
+CUST0801,Electronics,5,2,Yes,47.68,25,Male
+CUST0085,Home Goods,6,7,Yes,97.24,26,Male
+CUST0218,Electronics,10,3,Yes,117.55,23,Female
+CUST0693,Electronics,10,5,Yes,80.09,22,other
+CUST0874,Electronics,7,5,No,182.56,35,Female
+CUST0690,Home Goods,6,4,Yes,141.4,23,Male
+CUST0374,Books,8,8,No,126.67,34,Male
+CUST0433,Electronics,7,5,Yes,85.86,37,male
+CUST0451,Clothing,10,3,No,151.79,26,Other
+CUST0390,Electronics,4,2,Yes,100.03,27,Other
+CUST0088,Electronics,10,5,Yes,100.49,27,Female
+CUST0502,Electronics,6,6,No,75.28,42,Male
+CUST0199,Electronics,7,6,No,157.87,38,Female
+CUST0519,Books,7,5,No,10.16,20,Male
+CUST0578,Clothing,7,6,Yes,72.03,43,Other
+CUST0558,Electronics,7,0,No,126.59,36,other
+CUST0383,Books,6,5,No,109.34,22,other
+CUST0304,Clothing,8,4,No,135.72,55,Male
+CUST0869,Home Goods,9,2,Yes,50.23,38,other
+CUST0395,Home Goods,9,2,Yes,46.62,23,Male
+CUST0231,Clothing,7,6,Yes,21751,31,Male
+CUST0825,Books,5,2,No,104.56,16,Male
+CUST0364,Clothing,4,7,Yes,48.14,35,Male
+CUST0028,Home Goods,10,9,No,81.73,10,Female
+CUST0621,Books,9,5,No,18.12,38,Male
+CUST0887,Electronics,5,4,No,94,38,Female
+CUST0229,Electronics,12,5,No,132.73,17,male
+CUST0572,Home Goods,8,11,No,140.37,39,Male
+CUST0880,Electronics,4,7,No,130.99,21,Female
+CUST0323,Books,3,0,Yes,125.83,15,Male
+CUST0542,Clothing,8,4,Yes,42.53,55,Female
+CUST0116,Books,11,4,No,88.08,24,Female
+CUST0330,Books,9,5,Yes,42.92,18,male
+CUST0152,Home Goods,6,4,Yes,121.67,32,other
+CUST0354,Books,9,8,No,144.74,17,Male
+CUST0529,Books,7,1,No,149.79,52,other
+CUST0299,Electronics,5,3,No,133.66,0,Other
+CUST0069,Books,6,0,Yes,116.57,36,male
+CUST0961,Electronics,2,4,No,74.82,25,Male
+CUST0271,Clothing,7,5,Yes,109.34,22,Male
+CUST0055,Home Goods,8,6,No,135.72,27,Female
+CUST0700,Home Goods,8,3,No,88.61,48,Male
+CUST0973,Electronics,4,1,No,80.98,45,male
+CUST0941,Books,5,3,Yes,178.49,22,Female
+CUST0810,Electronics,8,4,No,78.69,31,Male
+CUST0977,Books,7,2,No,37.53,50,Male
+CUST0531,Electronics,8,3,Yes,7.7,26,other
+CUST0986,Clothing,10,4,No,83.14,13,Male
+CUST0188,Home Goods,7,2,No,68.49,67,other
+CUST0930,Electronics,4,6,Yes,75.38,34,male
+CUST0156,Clothing,5,9,No,74.07,61,Female
+CUST0120,Electronics,6,4,No,135.76,40,Female
+CUST0845,Electronics,6,4,No,149.83,28,Male
+CUST0089,Books,10,3,Yes,203.78,10,Male
+CUST0602,Books,9,6,No,93.21,56,Male
+CUST0667,Clothing,8,4,No,42.92,55,Other
+CUST0691,Clothing,4,6,No,86.89,37,Male
+CUST0372,Books,4,7,Yes,0,30,Male
+CUST0086,Home Goods,2,4,Yes,124.24,38,Female
+CUST0651,Home Goods,5,6,Yes,7013,42,Other
+CUST0103,Clothing,10,2,No,44.78,17,Female
+CUST0804,Electronics,5,6,Yes,69.24,33,male
+CUST0493,Electronics,7,2,Yes,171.29,19,Male
+CUST0024,Books,8,4,Yes,39.3,33,Other
+CUST0205,Books,7,3,No,40.01,39,Male
+CUST0114,Electronics,7,6,Yes,18.76,38,Female
+CUST0889,Books,9,0,Yes,101.7,47,Female
+CUST0009,Home Goods,9,4,Yes,167.7,42,Female
+CUST0948,Books,10,4,Yes,0,63,Male
+CUST0257,Home Goods,6,5,Yes,57.98,33,male
+CUST0302,Electronics,6,5,No,40.7,34,male
+CUST0658,Home Goods,7,5,Yes,114.1,41,other
+CUST0031,Electronics,10,5,Yes,220.5,33,Other
+CUST0911,Home Goods,9,6,Yes,28.94,39,male
+CUST0911,Books,7,0,No,109.36,39,Female
+CUST0127,Clothing,7,4,Yes,123.34,52,Other
+CUST0662,Home Goods,4,5,No,46.5,31,Female
+CUST0662,Books,8,5,Yes,195.08,51,Other
+CUST0160,Books,5,6,No,57.43,11,Male
+CUST0160,Books,3,5,Yes,58.44,28,Female
+CUST0027,Clothing,4,6,No,158.58,31,Female
+CUST0972,Books,8,0,No,26.2,15,Male
+CUST0357,Clothing,6,5,No,181.16,26,other
+CUST0609,Books,5,6,No,63.62,41,other
+CUST0147,Home Goods,7,6,No,29.18,53,male
+CUST0676,Electronics,1,5,No,13.37,39,Male
+CUST0833,Home Goods,5,9,Yes,123.65,48,Female
+CUST0288,Electronics,6,3,Yes,132.75,36,Female
+CUST0281,Books,6,3,No,87.91,60,other
+CUST0907,Clothing,7,5,Yes,101.7,45,Other
+CUST0184,Home Goods,7,4,Yes,54.65,50,other
+CUST0654,Electronics,9,1,No,179.96,24,Other
+CUST0018,Books,7,6,No,63.36,29,Other
+CUST0077,Books,7,5,No,94.57,38,Other
+CUST0987,Books,4,5,Yes,60.94,39,Male
+CUST0822,Books,6,6,No,83.29,49,Other
+CUST0060,Electronics,8,4,No,106.89,42,other
+CUST0394,Books,8,0,No,88.02,35,Male
+CUST0891,Home Goods,12,6,No,38.33,0,Female
+CUST0534,Electronics,7,4,No,169.54,49,Other
+CUST0174,Books,6,4,No,74.31,27,Male
+CUST0849,Home Goods,5,3,No,101.19,54,Male
+CUST0752,Home Goods,5,8,No,137.96,38,Other
+CUST0612,Clothing,8,3,Yes,63.27,42,Female
+CUST0854,Home Goods,10,6,No,37.34,44,Male
+CUST0533,Electronics,6,5,No,109.24,21,Male
+CUST0533,Home Goods,7,8,Yes,64.97,52,male
+CUST0543,Home Goods,10,7,Yes,62.18,40,male
+CUST0594,Books,9,6,No,106.61,26,other
+CUST0882,Clothing,5,6,No,79.57,33,other
+CUST0518,Clothing,10,6,Yes,72.89,51,other
+CUST0475,Home Goods,7,5,No,141.82,51,Male
+CUST0202,Books,5,4,Yes,66.03,36,male
+CUST0756,Clothing,10,5,No,15.37,62,Male
+CUST0739,Electronics,10,5,No,195.16,23,Male
+CUST0459,Home Goods,7,5,Yes,152.26,37,other
+CUST0704,Books,7,8,Yes,81.99,30,Other
+CUST0180,Home Goods,6,4,No,124.95,23,Female
+CUST0490,Electronics,11,8,Yes,150.52,15,Female
+CUST0571,Clothing,8,1,Yes,88.28,50,Male
+CUST0665,Electronics,6,7,Yes,107.86,18,Male
+CUST0861,Books,7,3,No,110.74,28,Female
+CUST0861,Clothing,6,0,No,104.22,23,Female
+CUST0397,Books,8,2,No,50.12,36,other
+CUST0920,Books,5,11,No,16.78,35,Other
+CUST0645,Books,6,7,Yes,125.14,25,Female
+CUST0786,Electronics,8,5,Yes,63.57,64,Female
+CUST0688,Electronics,4,5,No,188.93,6,male
+CUST0095,Clothing,7,6,No,128.3,36,Other
+CUST0414,Electronics,7,5,Yes,135.44,25,other
+CUST0666,Electronics,7,0,No,100.31,43,male
+CUST0317,Home Goods,6,6,No,84.37,33,Female
+CUST0446,Home Goods,5,0,No,80.05,25,Male
+CUST0225,Clothing,8,4,Yes,88.39,43,Female
+CUST0538,Home Goods,6,5,No,140.2,25,Female
+CUST0879,Electronics,7,6,No,88.58,41,Female
+CUST0596,Books,8,2,No,111.75,26,Male
+CUST0596,Home Goods,8,3,No,161.69,24,other
+CUST0724,Electronics,11,6,Yes,62.54,52,Other
+CUST0893,Electronics,7,6,Yes,172.78,27,male
+CUST0893,Clothing,6,9,No,56.75,37,male
+CUST0080,Books,7,6,Yes,37.43,24,other
+CUST0795,Electronics,7,5,No,116.57,61,Female
+CUST0827,Home Goods,6,7,No,56.99,49,Other
+CUST0890,Electronics,7,3,No,47.91,26,Male
+CUST0130,Books,9,0,Yes,54.4,73,other
+CUST0171,Books,6,7,No,116.8,27,Male
+CUST0046,Books,3,7,Yes,72.69,27,Male
+CUST0731,Home Goods,12,0,No,25.54,30,Female
+CUST0659,Books,7,3,No,107.99,21,male
+CUST0847,Clothing,7,1,No,48.87,13,Female
+CUST0113,Books,5,7,No,139.02,10,Other
+CUST0444,Books,6,5,No,157.09,68,Female
+CUST0897,Clothing,8,7,No,71.3,33,Male
+CUST0255,Clothing,6,5,Yes,174.81,45,other
+CUST0106,Clothing,10,10,Yes,75.36,7,Female
+CUST0327,Home Goods,6,1,No,124.09,20,other
+CUST0426,Electronics,6,5,Yes,238.3,36,Female
+CUST0981,Books,7,4,No,114.88,36,Male
+CUST0670,Home Goods,6,3,No,85.82,41,Male
+CUST0350,Home Goods,8,2,No,6379,11,Male
+CUST0664,Clothing,10,5,Yes,155.2,30,male
+CUST0332,Electronics,7,5,Yes,89.68,64,Male
+CUST0163,Books,8,7,No,56.75,24,other
+CUST0689,Home Goods,9,0,Yes,132.85,51,other
+CUST0642,Clothing,7,7,Yes,232.25,7,Male
+CUST0970,Home Goods,7,6,No,71.72,52,Female
+CUST0458,Books,8,5,Yes,13.09,35,Female
+CUST0960,Home Goods,4,7,No,62.89,30,Male
+CUST0564,Home Goods,7,5,No,142.21,54,Male
+CUST0791,Clothing,4,2,No,81.13,35,Male
+CUST0210,Electronics,6,3,Yes,21.18,20,male
+CUST0769,Home Goods,10,2,No,101.11,31,Male
+CUST0740,Books,5,6,No,137.7,43,Male
+CUST0580,Clothing,10,5,Yes,110.65,12,Male
+CUST0728,Home Goods,8,3,No,193.14,37,male
+CUST0728,Books,9,3,No,107.22,27,Other
+CUST0321,Books,4,6,Yes,138.07,42,Male
+CUST0823,Clothing,4,4,No,32.77,21,other
+CUST0807,Books,6,9,Yes,160.15,19,Male
+CUST0640,Books,8,5,No,152.01,43,Male
+CUST0565,Books,7,1,No,91.25,20,Male
+CUST0656,Electronics,6,4,Yes,114.15,42,Female
+CUST0066,Clothing,9,8,No,26.89,60,Female
+CUST0068,Electronics,8,10,No,157.34,15,Female
+CUST0447,Books,5,7,Yes,54.15,24,Male
+CUST0447,Books,7,4,Yes,130.42,39,Male
+CUST0389,Electronics,8,4,No,61.35,51,Female
+CUST0996,Electronics,6,3,Yes,92.75,31,Male
+CUST0484,Clothing,11,4,Yes,53.99,49,male
+CUST0318,Electronics,4,7,Yes,130.5,58,Female
+CUST0761,Books,5,2,No,138.01,16,Female
+CUST0699,Clothing,8,4,Yes,99.91,21,Female
+CUST0674,Clothing,6,5,No,73.93,33,Male
+CUST0884,Books,9,5,No,133.98,40,Male
+CUST0149,Electronics,6,0,Yes,672,35,Other
+CUST0110,Home Goods,8,9,No,185.63,34,Female
+CUST0567,Clothing,4,3,No,36.77,24,other
+CUST0221,Books,5,5,No,85.07,21,Female
+CUST0706,Electronics,5,6,Yes,96.91,17,Male
+CUST0648,Electronics,8,6,No,129.78,6,Female
+CUST0329,Books,7,0,No,170.07,34,Female
+CUST0329,Clothing,10,3,No,148.65,34,male
+CUST0100,Electronics,4,7,Yes,22.32,31,Male
+CUST0379,Clothing,9,5,No,10379,54,Female
+CUST0289,Electronics,4,8,No,131.78,37,male
+CUST0410,Clothing,9,3,Yes,186.74,16,Male
+CUST0036,Electronics,11,7,No,100.09,45,Male
+CUST0050,Clothing,7,6,Yes,69.25,44,male
+CUST0121,Books,6,6,No,142.61,57,Male
+CUST0435,Books,6,5,Yes,98.42,23,Male
+CUST0917,Clothing,7,4,No,111.77,29,Male
+CUST0819,Books,7,3,No,82.46,43,male
+CUST0094,Clothing,7,4,Yes,108.33,29,other
+CUST0574,Clothing,8,5,No,27.53,50,Other
+CUST0368,Clothing,9,1,Yes,135.5,49,Other
+CUST0369,Home Goods,5,6,No,153.64,65,other
+CUST0062,Home Goods,5,6,Yes,39.77,59,Other
+CUST0985,Books,7,5,No,86.09,22,Female
+CUST0668,Books,8,4,No,58.58,16,Female
+CUST0215,Home Goods,9,5,No,173.22,39,Other
+CUST0569,Home Goods,7,4,Yes,106.58,30,Female
+CUST0101,Home Goods,6,2,Yes,86.49,40,Female
+CUST0727,Home Goods,9,5,No,22.2,35,other
+CUST0743,Clothing,7,0,Yes,132.47,32,Female
+CUST0793,Electronics,5,9,No,71.75,77,Male
+CUST0998,Home Goods,6,5,Yes,140.05,41,other
+CUST0407,Clothing,8,5,Yes,132.63,29,Female
+CUST0953,Electronics,6,5,Yes,172.29,22,male
+CUST0381,Books,7,9,Yes,172.16,29,Female
+CUST0300,Books,8,7,Yes,0,27,Other
+CUST0951,Home Goods,6,6,Yes,74.38,34,Male
+CUST0663,Electronics,10,4,No,0,55,Male
+CUST0167,Books,10,3,No,60.39,37,Female
+CUST0788,Books,10,5,No,77.3,34,Other
+CUST0967,Electronics,8,6,Yes,120.17,30,male
+CUST0967,Home Goods,8,8,No,116.27,69,other
+CUST0222,Home Goods,5,8,No,113.7,26,Other
+CUST0844,Home Goods,11,7,No,139.66,27,other
+CUST0487,Home Goods,4,4,Yes,81.29,6,male
+CUST0226,Clothing,7,2,Yes,158.23,15,Female
+CUST0265,Home Goods,11,6,Yes,104.17,25,male
+CUST0107,Clothing,7,4,No,58.19,41,male
+CUST0684,Books,7,7,Yes,68.8,36,Male
+CUST0033,Books,9,8,No,101.06,39,Female
+CUST0618,Books,6,4,No,129.82,42,Female
+CUST0939,Clothing,7,5,No,89.85,24,Other
+CUST0927,Electronics,10,5,No,47.18,55,male
+CUST0544,Clothing,7,9,Yes,108.63,22,Male
+CUST0749,Electronics,7,4,No,100.01,56,male
+CUST0821,Home Goods,6,8,No,116.94,25,Male
+CUST0546,Books,11,6,Yes,115.86,34,Female
+CUST0504,Books,9,5,No,101.1,50,male
+CUST0454,Clothing,7,5,No,154.17,34,Female
+CUST0903,Clothing,5,4,No,89.38,39,Other
+CUST0587,Clothing,9,0,No,32.8,38,Male
+CUST0971,Books,6,4,No,159.86,35,Male
+CUST0971,Books,7,8,Yes,183.7,22,Female
+CUST0250,Home Goods,4,4,Yes,48.57,32,Male
+CUST0561,Books,4,6,No,168.96,2,Male
+CUST0805,Clothing,7,2,No,93.56,68,Female
+CUST0863,Clothing,7,5,Yes,22.33,37,other
+CUST0770,Electronics,9,4,Yes,26.95,35,Other
+CUST0581,Books,9,5,No,162.06,40,Male
+CUST0469,Electronics,10,0,Yes,132.87,49,other
+CUST0428,Books,7,7,Yes,57.91,18,Male
+CUST0111,Books,5,0,No,96.87,40,Male
+CUST0104,Books,9,8,No,146.2,43,Female
+CUST0734,Books,9,5,Yes,21.85,37,Other
+CUST0365,Home Goods,5,0,No,130.93,30,Male
+CUST0921,Electronics,7,6,No,146,35,Male
+CUST0267,Books,6,5,Yes,82.06,26,male
+CUST0203,Home Goods,9,0,Yes,81.15,56,Male
+CUST0378,Electronics,7,2,No,83.91,64,Other
+CUST0450,Clothing,7,6,No,135.14,24,Other
+CUST0102,Clothing,5,1,No,129.7,63,Other
+CUST0230,Electronics,7,11,No,76.34,33,Female
+CUST0319,Home Goods,4,6,Yes,76.54,26,Male
+CUST0386,Books,6,8,Yes,103.86,58,Male
+CUST0371,Books,8,5,No,85.69,17,Male
+CUST0025,Books,8,8,No,196.96,44,Female
+CUST0736,Home Goods,9,7,No,159.13,35,male
+CUST0312,Home Goods,4,4,No,57.02,34,Male
+CUST0802,Clothing,7,4,No,101.46,32,Male
+CUST0134,Electronics,9,9,No,66.03,36,other
+CUST0876,Home Goods,7,0,No,16.39,65,male
+CUST0474,Books,8,6,Yes,46.03,51,Female
+CUST0677,Books,9,6,Yes,40.99,51,other
+CUST0616,Home Goods,9,5,No,103.44,50,Male
+CUST0979,Books,9,4,Yes,29.9,29,Female
+CUST0437,Books,12,5,Yes,153.45,33,Female
+CUST0192,Home Goods,9,0,Yes,121.38,18,other
+CUST0030,Books,6,7,No,44.5,25,Other
+CUST0547,Electronics,4,4,Yes,97.71,51,Male
+CUST0886,Electronics,8,4,No,85.58,43,Male
+CUST0826,Books,8,6,Yes,190.33,46,male
+CUST0615,Clothing,10,0,Yes,127.35,46,Female
+CUST0112,Home Goods,7,7,Yes,7.47,38,Other
+CUST0792,Books,7,5,No,135.86,38,Other
+CUST0244,Electronics,9,7,Yes,83.18,46,Other
+CUST0672,Clothing,9,7,No,41.56,57,Male
+CUST0607,Home Goods,7,7,Yes,90.11,22,Other
+CUST0535,Home Goods,9,1,No,85.69,14,Male
+CUST0457,Clothing,5,4,No,77.02,58,Female
+CUST0179,Electronics,9,6,Yes,186.17,31,male
+CUST0723,Books,6,4,No,68.53,28,male
+CUST0789,Books,6,3,Yes,149.51,13,Male
+CUST0043,Clothing,9,5,No,11246,52,Male
+CUST0680,Clothing,5,4,Yes,32.09,47,Female
+CUST0552,Books,8,6,No,144.93,25,Male
+CUST0857,Home Goods,6,9,No,100.76,42,Other
+CUST0246,Clothing,10,3,No,154.39,37,male
+CUST0708,Books,7,3,Yes,206.03,11,Male
+CUST0922,Home Goods,7,5,No,84.93,46,Male
+CUST0594,Books,9,6,No,106.61,26,other
+CUST0721,Clothing,8,3,Yes,71.39,31,Other
+CUST0170,Clothing,6,6,Yes,90.66,32,Male
+CUST0661,Books,6,0,No,85.58,26,Other
+CUST0888,Clothing,6,5,No,137.02,25,Female
+CUST0187,Clothing,8,6,Yes,89.18,24,Female
+CUST0412,Books,8,3,Yes,37.72,26,other
+CUST1000,Home Goods,8,3,Yes,157.35,16,Other
+CUST0703,Electronics,6,4,No,103.21,39,Other
+CUST0045,Books,5,6,No,59.27,53,Male
+CUST0365,Home Goods,5,0,No,130.93,30,Male
+CUST0563,Home Goods,7,7,Yes,70.5,52,Male
+CUST0273,Books,7,3,No,104.84,33,Male
+CUST0015,Books,4,3,Yes,141.46,58,Male
+CUST0436,Books,10,5,No,113.74,45,other
+CUST0406,Books,7,5,Yes,112.63,21,Other
+CUST0214,Home Goods,8,4,No,171.47,48,Female
+CUST0991,Clothing,6,4,No,50.74,38,Female
+CUST0360,Home Goods,6,5,Yes,191.38,41,other
+CUST0293,Electronics,9,7,No,133.87,39,Female
+CUST0293,Books,6,4,Yes,114.43,53,Male
+CUST0293,Electronics,10,7,No,77.34,32,Other
+CUST0509,Books,10,5,Yes,89.33,33,Male
+CUST0697,Home Goods,6,2,Yes,106.61,38,Female
+CUST0783,Books,8,5,No,24.59,44,Male
+CUST0274,Books,7,7,No,74.81,30,male
+CUST0586,Home Goods,6,-1,Yes,128.84,5,other
+CUST0883,Home Goods,6,4,No,123.94,19,Female
+CUST0133,Electronics,7,3,No,107.45,14,male
+CUST0154,Home Goods,6,-1,Yes,83.57,31,Female
+CUST0154,Home Goods,11,8,Yes,69.5,67,Male
+CUST0287,Electronics,6,4,Yes,70.46,31,Male
+CUST0916,Clothing,9,3,No,60.51,22,male
+CUST0308,Home Goods,8,2,Yes,130.93,54,Male
+CUST0995,Books,8,3,Yes,170.51,23,male
+CUST0997,Electronics,8,6,No,83.6,39,male
+CUST0468,Electronics,9,7,Yes,213.92,46,Female
+CUST0871,Electronics,10,7,Yes,17.23,5,other
+CUST0936,Electronics,8,7,No,76.61,41,Male
+CUST0497,Home Goods,6,3,No,110.9,45,Female
+CUST0553,Electronics,7,7,No,127.98,47,Male
+CUST0583,Books,7,5,Yes,23.92,32,Female
+CUST0150,Books,7,2,No,151.43,27,Male
+CUST0914,Clothing,8,2,Yes,151.49,20,Male
+CUST0604,Clothing,7,6,Yes,77.34,43,other
+CUST0641,Clothing,7,9,Yes,29.8,27,Male
+CUST0003,Electronics,9,5,No,65.88,26,Male
+CUST0252,Electronics,7,6,No,163.07,17,Male
+CUST0026,Clothing,7,6,No,74.81,58,Female
+CUST0211,Home Goods,6,6,Yes,117.68,27,Male
+CUST0543,Home Goods,10,7,Yes,62.18,40,male
+CUST0738,Electronics,5,4,Yes,149.97,28,other
+CUST0462,Electronics,12,3,No,87.99,19,Male
+CUST0401,Books,9,0,Yes,105.56,59,Other
+CUST0717,Home Goods,11,3,No,17794,29,Other
+CUST0717,Books,8,7,Yes,60.78,38,male
+CUST0536,Clothing,5,6,Yes,60.41,53,Male
+CUST0536,Books,9,4,No,199.49,29,male
+CUST0209,Clothing,9,0,No,100.71,38,Female
+CUST0881,Books,7,1,No,29.54,37,other
+CUST0838,Electronics,8,5,No,130.41,11,male
+CUST0632,Books,6,1,No,83.83,29,Male
+CUST0725,Electronics,7,4,No,126.13,25,Male
+CUST0725,Home Goods,5,6,Yes,127.98,25,Male
+CUST0855,Home Goods,6,5,No,0,34,other
+CUST0489,Electronics,7,8,No,138.31,35,Male
+CUST0478,Books,11,2,No,164.33,58,male
+CUST0550,Home Goods,6,2,No,121.68,63,Other
+CUST0994,Books,11,6,No,126.68,56,Male
+CUST0176,Clothing,11,4,No,84.38,63,Female
+CUST0644,Books,5,4,Yes,34.39,34,other
+CUST0343,Home Goods,6,6,No,157.23,35,Male
+CUST0831,Electronics,6,4,No,70.35,17,Female
+CUST0492,Electronics,7,5,No,41.26,22,Female
+CUST0151,Home Goods,5,6,Yes,121.48,44,Female
+CUST0608,Books,6,6,No,109.46,30,male
+CUST0235,Books,5,5,No,88.72,30,other
+CUST0456,Home Goods,8,1,No,171.97,22,Female
+CUST0027,Clothing,4,6,Yes,158.58,31,Female
+CUST0057,Books,3,5,No,68,24,Other
+CUST0124,Home Goods,3,8,Yes,140.49,37,other
+CUST0853,Electronics,8,4,Yes,31.59,33,Female
+CUST0553,Electronics,7,7,No,127.98,47,Male
+CUST0494,Clothing,7,3,Yes,71.05,33,Female
+CUST0035,Clothing,11,6,Yes,67.46,26,Male
+CUST0035,Electronics,7,2,Yes,146.64,67,Male
+CUST0042,Home Goods,8,0,No,84.93,51,Female
+CUST0808,Electronics,8,2,Yes,138.77,37,other
+CUST0090,Clothing,7,0,Yes,81.39,58,Male
+CUST0815,Books,7,9,No,127.67,30,male
+CUST0377,Books,12,5,Yes,90.72,37,other
+CUST0628,Clothing,6,3,No,105.1,25,Male
+CUST0758,Home Goods,7,5,No,109.38,25,Female
+CUST0328,Home Goods,8,7,No,65.21,50,Other
+CUST0143,Books,8,4,No,106.48,43,Female
+CUST0834,Books,11,5,Yes,146.87,52,male
+CUST0391,Home Goods,6,4,No,109.82,25,Male
+CUST0768,Books,6,5,No,181.12,69,Other
+CUST0637,Electronics,7,8,No,30.31,42,other
+CUST0955,Books,7,6,No,139.52,59,other
+CUST0942,Electronics,7,4,Yes,103.43,27,male
+CUST0577,Electronics,7,6,Yes,157.07,50,Female
+CUST0331,Electronics,7,6,No,81.16,15,other
+CUST0001,Home Goods,8,8,Yes,126,37,male
+CUST0481,Books,8,7,Yes,74.04,48,Other
+CUST0115,Home Goods,9,7,Yes,39.55,29,Male
+CUST0002,Books,11,8,No,51.11,26,Female
+CUST0132,Electronics,5,6,Yes,95.14,40,other
+CUST0480,Books,6,2,No,168.31,8,male
+CUST0745,Home Goods,8,6,No,86.17,37,male
+CUST0859,Clothing,6,8,No,43.11,43,Female
+CUST0270,Home Goods,7,4,No,81.39,67,other
+CUST0905,Home Goods,8,0,No,99.49,53,Other
+CUST0125,Electronics,8,3,Yes,89.16,16,Male
+CUST0125,Electronics,4,6,No,105.1,14,Male
+CUST0554,Books,6,5,No,59.32,34,male
+CUST0127,Clothing,7,4,Yes,123.34,52,Other
+CUST0937,Clothing,7,6,No,59.76,34,Male
+CUST0303,Home Goods,8,6,Yes,130.42,2,Male
+CUST0906,Clothing,12,7,No,11482,26,other
+CUST0264,Electronics,8,10,No,94.69,32,other
+CUST0482,Clothing,8,7,No,208.2,8,Female
+CUST0259,Home Goods,7,3,No,43.37,20,Male
+CUST0629,Home Goods,10,0,No,103.43,48,Female
+CUST0549,Clothing,8,10,Yes,154.76,29,Female
+CUST0052,Clothing,4,8,No,77.69,51,male
+CUST0201,Home Goods,6,5,No,91.72,21,male
+CUST0108,Books,5,5,No,5.76,48,Female
+CUST0070,Clothing,5,0,Yes,126.67,49,Male
+CUST0502,Electronics,6,6,No,75.28,42,Male
+CUST0716,Books,1,3,No,119.58,48,Male
+CUST0634,Electronics,8,3,No,125.37,59,Other
+CUST0692,Clothing,6,7,No,222.08,33,Male
+CUST0499,Electronics,8,5,Yes,95.6,29,other
+CUST0598,Home Goods,7,7,No,89.49,50,Other
+CUST0598,Home Goods,10,3,No,40.81,23,other
+CUST0585,Clothing,7,6,Yes,102.59,44,Male
+CUST0017,Books,7,7,No,67.19,28,Male
+CUST0954,Books,7,4,Yes,100.82,23,Female
+CUST0228,Clothing,5,5,No,89.33,31,Other
+CUST0624,Clothing,6,7,Yes,106.55,28,Male
+CUST0624,Books,6,0,Yes,77.85,23,Female
+CUST0751,Books,9,5,No,43.37,49,Female
+CUST0006,Books,8,4,No,126.95,31,Male
+CUST0220,Home Goods,11,3,Yes,74.87,52,other
+CUST0841,Home Goods,7,8,No,103.64,31,Female
+CUST0525,Clothing,6,8,Yes,57.98,29,Female
+CUST0698,Clothing,11,0,No,105.98,46,Female
+CUST0358,Books,7,7,No,145.87,31,Male
+CUST0129,Home Goods,6,5,Yes,108.86,31,other
+CUST0072,Clothing,5,6,Yes,50.95,48,male
+CUST0277,Electronics,7,1,No,13.31,18,Male
+CUST0789,Books,7,3,Yes,149.51,13,Male
+CUST0765,Electronics,5,5,No,119.1,27,male
+CUST0384,Electronics,11,6,Yes,56.49,6,other
+CUST0968,Clothing,9,2,Yes,72.53,25,Male
+CUST0730,Books,8,0,Yes,110,31,Female
+CUST0314,Home Goods,7,5,No,43.11,26,Male
+CUST0306,Electronics,9,0,Yes,91.52,40,Male
+CUST0779,Books,9,8,No,105.47,45,other
+CUST0864,Clothing,9,0,No,187.29,17,Male
+CUST0999,Books,8,5,No,44.5,36,other
+CUST0926,Home Goods,9,9,Yes,84.4,30,Other
+CUST0878,Clothing,5,3,No,101.05,59,Male
+CUST0568,Books,10,4,Yes,176.46,25,Female
+CUST0495,Electronics,12,7,No,0,26,male
+CUST0004,Home Goods,6,3,No,66.16,25,Male
+CUST0524,Home Goods,11,5,No,82.06,52,other
+CUST0082,Books,9,6,No,42.27,45,Male
+CUST0850,Clothing,10,6,Yes,86.79,26,Other
+CUST0659,Books,7,3,No,107.99,21,male
+CUST0659,Electronics,7,6,No,96.77,33,other
+CUST0726,Electronics,7,5,No,8.26,25,Female
+CUST0726,Clothing,8,3,No,44.11,25,Female
+CUST0726,Electronics,6,6,Yes,105.52,35,other
+CUST0777,Electronics,4,6,Yes,58.34,15,other
+CUST0576,Clothing,10,6,No,160.42,34,Male
+CUST0806,Books,4,6,No,117.03,43,Female
+CUST0806,Electronics,9,3,No,80.19,37,Female
+CUST0392,Home Goods,7,5,Yes,60.11,25,other
+CUST0975,Books,7,3,No,113.95,9,male
+CUST0570,Home Goods,9,8,No,70.52,37,Other
